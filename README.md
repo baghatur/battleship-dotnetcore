@@ -1,5 +1,10 @@
 [![Build status](https://dev.azure.com/APS-SD-Stewards/APS-SD/_apis/build/status/proscrumdev.battleship-dotnetcore-CI)](https://dev.azure.com/APS-SD-Stewards/APS-SD/_build/latest?definitionId=13)
 
+# Hint
+This version is depricated and will no longer be updated. Please use the .NET6 version to get the latest and greatest version: https://github.com/proscrumdev/battleship-dotnet
+
+---
+
 # Build the application 
 In the root folder of the application there is a Battleship.sln which can be used to build all projects by executing
 ```bash
