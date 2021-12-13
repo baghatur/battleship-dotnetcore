@@ -1,7 +1,7 @@
 [![Build status](https://dev.azure.com/APS-SD-Stewards/APS-SD/_apis/build/status/proscrumdev.battleship-dotnetcore-CI)](https://dev.azure.com/APS-SD-Stewards/APS-SD/_build/latest?definitionId=13)
 
 # Hint
-This version is depricated and will no longer be updated. Please use the .NET6 version to get the latest and greatest version: https://github.com/proscrumdev/battleship-dotnet
+This version is deprecated and will no longer be updated. Please use the .NET6 version to get the latest and greatest version: https://github.com/proscrumdev/battleship-dotnet
 
 ---
 
